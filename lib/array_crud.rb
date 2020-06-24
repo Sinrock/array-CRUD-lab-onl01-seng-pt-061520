@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  drinks[milk,tea,juice,soda]
+  drinks=[milk,tea,juice,soda]
 
 end
 
